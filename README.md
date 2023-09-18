@@ -4,5 +4,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Authors
 
-- Username: ashishmishra-2002
+- [ashishmishra-2002](https://github.com/ashishmishra-2002)
+
 
