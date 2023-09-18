@@ -51,3 +51,4 @@ To contribute to this project, please follow our [CONTRIBUTING.md](https://githu
 ## Authors
 
 - Username: [ashishmishra-2002](https://github.com/ashishmishra-2002)
+  2022 Ashish Mishra, Inc.
