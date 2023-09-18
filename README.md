@@ -38,15 +38,15 @@ Revert the typo you fixed earlier and submit another pull request to showcase th
 
 ## License
 
-This project is licensed under the [License](link_to_license_file) - see the [LICENSE](link_to_license_file) file for details.
+This project is licensed under the [License](https://github.com/ashishmishra-2002/Final_Assignment_Repo/blob/master/LICENSE) - see the [LICENSE](https://github.com/ashishmishra-2002/Final_Assignment_Repo/blob/master/LICENSE) file for details.
 
 ## Code of Conduct
 
-Please review our [CODE_OF_CONDUCT.md](link_to_code_of_conduct) to understand the project's behavioral expectations.
+Please review our [CODE_OF_CONDUCT.md](https://github.com/ashishmishra-2002/Final_Assignment_Repo/blob/master/CODE_OF_CONDUCT.md) to understand the project's behavioral expectations.
 
 ## Contribution Guidelines
 
-To contribute to this project, please follow our [CONTRIBUTING.md](link_to_contribution_guidelines).
+To contribute to this project, please follow our [CONTRIBUTING.md](https://github.com/ashishmishra-2002/Final_Assignment_Repo/blob/master/CONTRIBUTING.md).
 
 ## Authors
 
